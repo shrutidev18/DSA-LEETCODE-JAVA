@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
