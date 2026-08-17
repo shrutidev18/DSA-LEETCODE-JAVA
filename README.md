@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3693-climbing-stairs-ii) |
+## Database
+|  |
+| ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
