@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [3693-climbing-stairs-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3693-climbing-stairs-ii) |
 ## Database
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
