@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3693-climbing-stairs-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3904-smallest-stable-index-ii) |
 ## String
