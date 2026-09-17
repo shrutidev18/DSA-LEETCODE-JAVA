@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3870-count-commas-in-range](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
