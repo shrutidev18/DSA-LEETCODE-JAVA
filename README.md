@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0147-insertion-sort-list) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -181,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
