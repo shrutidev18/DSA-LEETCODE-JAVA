@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0147-insertion-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
