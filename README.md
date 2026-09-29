@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3525-find-x-value-of-array-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
