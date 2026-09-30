@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0601-human-traffic-of-stadium](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0601-human-traffic-of-stadium) |
 | [1484-group-sold-products-by-the-date](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1484-group-sold-products-by-the-date) |
 ## Math
