@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0147-insertion-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0077-combinations) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 ## Segment Tree
