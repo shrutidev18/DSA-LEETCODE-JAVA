@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
