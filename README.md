@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0907-sum-of-subarray-minimums) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0077-combinations) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 ## Segment Tree
 |  |
@@ -405,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
