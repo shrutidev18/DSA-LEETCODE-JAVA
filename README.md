@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3525-find-x-value-of-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0190-reverse-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
