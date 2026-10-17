@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0190-reverse-bits) |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -360,14 +365,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
