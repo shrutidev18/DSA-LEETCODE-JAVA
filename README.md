@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0190-reverse-bits) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
@@ -201,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
@@ -213,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -434,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -454,9 +463,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
