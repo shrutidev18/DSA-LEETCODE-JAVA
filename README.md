@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
