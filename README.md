@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0907-sum-of-subarray-minimums) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
