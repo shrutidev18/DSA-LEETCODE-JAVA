@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Data Stream
 |  |
 | ------- |
@@ -481,11 +483,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
