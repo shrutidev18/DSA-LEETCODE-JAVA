@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
