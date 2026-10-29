@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0374-guess-number-higher-or-lower) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
