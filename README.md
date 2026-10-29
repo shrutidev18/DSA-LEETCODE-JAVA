@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
