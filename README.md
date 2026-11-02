@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
