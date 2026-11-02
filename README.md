@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
+| [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
+| [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
+| [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -547,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
