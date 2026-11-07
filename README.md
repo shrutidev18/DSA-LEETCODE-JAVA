@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0327-count-of-range-sum) |
+| [0335-self-crossing](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0435-non-overlapping-intervals) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0189-rotate-array) |
+| [0335-self-crossing](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0335-self-crossing) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Longest Increasing Subsequence
