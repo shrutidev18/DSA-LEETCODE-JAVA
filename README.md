@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3665-twisted-mirror-path-count) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
 | [4006-count-valid-prefixes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/4006-count-valid-prefixes) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Data Stream
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
