@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1143-longest-common-subsequence) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0190-reverse-bits) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Fermat's Little Theorem
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
