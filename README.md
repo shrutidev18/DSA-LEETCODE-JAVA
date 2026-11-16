@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0695-max-area-of-island) |
