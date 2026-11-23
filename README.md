@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
