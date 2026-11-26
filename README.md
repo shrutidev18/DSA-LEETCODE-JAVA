@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0336-palindrome-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -631,4 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
