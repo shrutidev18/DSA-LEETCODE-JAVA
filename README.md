@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2409-count-days-spent-together) |
 | [2748-number-of-beautiful-pairs](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2748-number-of-beautiful-pairs) |
+| [3360-stone-removal-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3525-find-x-value-of-array-ii) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/0043-multiply-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shrutidev18/DSA-LEETCODE-JAVA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
